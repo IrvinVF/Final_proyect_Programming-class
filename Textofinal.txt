@@ -1,0 +1,21 @@
+derivada: En una funcion, limite hacia el cual tiende la razon entre el incremento de la funcion y el correspondiente a la variable cuando el incremento tiende a cero.
+resta: Operacion aritmetica que consiste en quitar una cantidad (el sustraendo) de otra (el minuendo)
+suma: Operación aritmética que consiste en reunir varias cantidades en una sola; se representa con el signo +.
+division: operación inversa de la multiplicacion, siempre y cuando se realice en un campo.
+multiplicacion: calcular el resultado de sumar un mismo numero  tantas veces como indica otro numero 
+euler: Es aproximadamente 2,71828 y aparece en diversas ramas de las Matematicas, al ser la base de los logaritmos naturales y formar parte de las ecuaciones del interés compuesto y otros muchos problemas.
+verne: Apellido del autor del libro "La vuelta al Mundo en 80 dias".
+exupery: Ultimo apellido del autor de "El principito". NOTA, No incluir acentos franceses.
+curie: apellido de, no solo la primer mujer en ganar un premio nobel, sino la 1era persona en ganar dos premios nobel.
+mendeleyev: apellido del cientifico ruso que desarrollo la la ley periodica de los elementos. NOTA, APELLIDO EN TRANSLITERACION AL ESPAÑOL.
+gravedad: ¿que descubrio newton cuando una manzana cayo cerca de el al estar sentado debajo de un arbol?
+integral: generalizacion de la suma de infinitos sumandos, infinitesimalmente pequenos, inversa a derivada
+volumen: magnitud metrica de tipo escalar​ definida como la extensión en tres dimensiones de una región del espacio
+peso: medida de la fuerza gravitatoria que actúa sobre un objeto.
+bacteria:  microorganismos procariotas que presentan un tamano de unos pocos micrometros
+quimica: ciencia natural que estudia la composicion, estructura y propiedades de la materia.
+fisica: ciencia natural que estudia los componentes fundamentales del universo, la energia, la materia, la fuerza, el movimiento, entre otros.
+biologia: ciencia natural que estudia todos los fenomenos y propiedades relacionadas con la vida, lo organico y los procesos biologicos 
+exponenciacion: operacion definible en un algebra sobre un cuerpo normada completa
+Alighieri: apellido del autor de la divina comedia.
+lazaro cardenas: nombre del mejor presidente que mexico, objetivamente hablando, ha tenido.
